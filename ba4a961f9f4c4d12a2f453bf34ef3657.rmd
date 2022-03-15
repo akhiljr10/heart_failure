@@ -1,5 +1,5 @@
 ---
-author: Akhil Joseph & Regina Merine
+author: Akhil Joseph
 date: 2021-07-05
 generator: pandoc
 title: Cardiovascular Prediction
@@ -10,7 +10,7 @@ viewport: width=device-width, initial-scale=1
 ::: {#header}
 # Cardiovascular Prediction {#cardiovascular-prediction .title .toc-ignore}
 
-#### Akhil Joseph & Regina Merine {#akhil-joseph-regina-merine .author}
+#### Akhil Joseph  {#akhil-joseph.author}
 
 #### 07/05/2021 {#section .date}
 :::
